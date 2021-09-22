@@ -8,13 +8,16 @@ Use this script to store any R, Bash or Python scripts you developed. This inclu
 4. Machine learning pipelines
 
 ## Required sections
-
+###### Video Capture from Webcam <h4> tag
 ### Set up
 
 Tell what we need to install for the scripts to run successfully (i.e. libraries)
-
-### Command line parameters (if applicable) or code snippets demonstrating code usage
-
-    python my_python_script.py parameter1
+install opencv-python library
+    pip install opencv-python
+    
+    run the script as python video_capture.py memberName_ExerciseClass_videoIndexNo_NumberOftimes
+    Eg: python video_capture.py Nasreen_squat_01_6
+    
+    In this example, the video should show the squat motion in 6 times
     
 ### Script considerations and limitations
