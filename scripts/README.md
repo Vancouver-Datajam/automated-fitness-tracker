@@ -13,9 +13,10 @@ Use this script to store any R, Bash or Python scripts you developed. This inclu
 install opencv-python library to run this script
     pip install opencv-python
     
-    run the script as python video_capture.py memberName_ExerciseClass_videoIndexNo_NumberOftimes
+run the script as python video_capture.py memberName_ExerciseClass_videoIndexNo_NumberOftimes
+
     Eg: python video_capture.py Nasreen_squat_01_6
     
-    In this example, the video should show the squat motion in 6 times
+In this example, the video should show the squat motion in 6 times
     
 ### Script considerations and limitations
