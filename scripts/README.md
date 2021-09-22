@@ -7,12 +7,10 @@ Use this script to store any R, Bash or Python scripts you developed. This inclu
 3. Data visualization scripts
 4. Machine learning pipelines
 
-## Required sections
-###### Video Capture from Webcam <h4> tag
-### Set up
 
-Tell what we need to install for the scripts to run successfully (i.e. libraries)
-install opencv-python library
+## Video Capture from Webcam 
+### Set up
+install opencv-python library to run this script
     pip install opencv-python
     
     run the script as python video_capture.py memberName_ExerciseClass_videoIndexNo_NumberOftimes
