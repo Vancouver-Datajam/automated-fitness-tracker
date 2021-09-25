@@ -26,7 +26,7 @@ def Pre_process(df):
         df_c = df_c.drop([f'x{i}'], axis=1)
         
     #fill missing values
-    df_c = df_c.fillna(method="ffill")
+    df_c = df_c.fillna(method="ffill").fillna("bfill")
     
     df_c = df_c[df_c['obs.no'] != 13]
 
