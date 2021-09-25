@@ -1,4 +1,4 @@
-# Vancouver Datajam 2021 Project template 
+# Vancouver Datajam 2021 # team1
 
 This repository contains a computer vision Python project developed by #team1
 
