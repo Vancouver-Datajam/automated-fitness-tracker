@@ -31,7 +31,7 @@ Documentation: Nasreen
 
 Scripting: Ketian Bai
 
-Data extraction
+Data extraction: Momo, Jason
 
 Modelling: Austin, Chloe, Sami
 
