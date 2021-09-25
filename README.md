@@ -2,21 +2,33 @@
 
 This repository contains a Python project template.
 
-## Project title
+## Automated Fitness Tracker
+
+
 
 ## Project statement
 
+During the COVID19 pandemic, many people were unable to attend recreational centres and fitness centers, and needed to rely on home tools. Furthermore, people experienced an increased sense of isolation and loss of motivation while working out at home. Some people might turn to a personal trainer who encourages them to continue physical training . In order to avoid further contact with strangers, and to ease social distancing measures, we are adapting a Python program that detects body pose with the purpose of helping people to count the repeated body exercises at home.
+
+Our adaptation would help a person who is exercising count the number of repetitions of a given exercise they are doing, and also track their body posture as they exercise. Tracking body posture data can then be used to examine the movements that might cause injury.
+
+The AI model detects between two classes squats and bicep curls exercises. The model is trained by the data collected by the team. The dataset is collected and stored in the dropbox. After the collection, feature extraction is
+
+## Data Collection
+From all team members, 20 video
+
+
 ## Project team members
 
-Team lead:
+Team lead: Nasreen Mohsin
 
-Mentor:
+Co-lead/ Mentor: Srishti YAdav
 
-Documentation:
+Documentation: Nasreen 
 
-Scripting:
+Scripting: Ketian Bai
 
-Modelling: 
+Modelling: Austin, Chloe, Sami
 
 Sanity checking: 
 
