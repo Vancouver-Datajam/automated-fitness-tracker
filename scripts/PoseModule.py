@@ -8,6 +8,7 @@ import cv2
 import mediapipe as mp
 import time
 import math
+import numpy as np
 
 
 class poseDetector():
@@ -58,8 +59,12 @@ class poseDetector():
         # Calculate the Angle
         angle = math.degrees(math.atan2(y3 - y2, x3 - x2) -
                              math.atan2(y1 - y2, x1 - x2))
-        if angle < 0:
-            angle += 360
+        
+        angle=np.abs(angle)
+        
+        if angle>180.0:
+            angle=360-angle
+
 
         # print(angle)
 
