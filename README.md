@@ -16,6 +16,7 @@ This repository contains the jupyter notebooks and scripts for physical exercise
 From all team members, 20 video
 
 ## Data Extraction
+50 frames containing medipipe pose joints were retrieved for each observation from each video and saved into a csv. 
 
 ## Data Modelling and training
 
