@@ -35,13 +35,15 @@ Team lead: Nasreen Mohsin
 
 Co-lead/ Mentor: Srishti Yadav
 
+Mentor: Sami Mo
+
 Documentation: Nasreen 
 
 Scripting: Ketian Bai
 
 Data extraction: Momo, Jason
 
-Modelling: Austin, Chloe, Sami
+Modelling and Training: Austin, Chloe, Sami
 
 Sanity checking: 
 
