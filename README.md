@@ -2,7 +2,7 @@
 
 This repository contains a computer vision Python project developed by #team1
 
-# Automated Fitness Tracker
+# Automated Fitness Tracker: Recovering from COVID Pandemic
 ## Project statement
 
 During the COVID19 pandemic, many people were unable to attend recreational centres and fitness centers, and needed to rely on home tools. Furthermore, people experienced an increased sense of isolation and loss of motivation while working out at home. Some people might turn to a personal trainer who encourages them to continue physical training . In order to avoid further contact with strangers, and to ease social distancing measures, we are adapting a Python program that detects body pose with the purpose of helping people to count the repeated body exercises at home.
