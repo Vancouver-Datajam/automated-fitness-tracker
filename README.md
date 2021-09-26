@@ -21,6 +21,11 @@ https://www.dropbox.com/sh/xdurn4e4y3rax54/AAB9wpGEhlyIALu861ZzSd5Ha?dl=0
 50 frames containing medipipe pose joints were retrieved for each observation from each video. Data was stored into a csv. 
 
 ## Data Modelling and training
+Normalize joint coordinates relative to center point of the body.
+Structure input array to represent video frames per exercise repetiion
+Build LSTM deep learning model, train and test.
+Package model and create modular preprocessing package.
+Create main script to ingest new video and predict with saved model.
 
 ## Prediction and counting
 The counting.py library was created to count the number of moves in each type of exercise: squats and curls
