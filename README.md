@@ -13,7 +13,9 @@ Our adaptation would help a person who is exercising count the number of repetit
 This repository contains the jupyter notebooks and scripts for physical exercise classication and counting
 
 ## Data Collection
-From all team members, 20 video
+From all team members, videos of squat and bicep curls were collected and stored in this folder.
+https://www.dropbox.com/sh/xdurn4e4y3rax54/AAB9wpGEhlyIALu861ZzSd5Ha?dl=0
+
 
 ## Data Extraction
 50 frames containing medipipe pose joints were retrieved for each observation from each video. Data was stored into a csv. 
