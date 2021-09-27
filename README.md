@@ -1,6 +1,6 @@
 # Vancouver Datajam 2021 # team1
 
-This repository contains a computer vision Python project developed by #team1
+This repository contains a computer vision Python project developed by #team1. The project idea was brought forward by  Amal Tili from [Pyladies Tunis](https://pyladies.com/locations/tunis/). The presentation of the project can be found in the [YouTube Video] (https://www.youtube.com/watch?v=9UHGXD6sKSM&list=PLhN61vAZv97wpivkmGhYLYAPSy_jgp0fP) and the [powerpoint](https://docs.google.com/presentation/d/1JyLmHyE4XJJfcJeYdLggOzUvvEx1eEIOetgV0QdSUAE/edit#slide=id.p)
 
 # Automated Fitness Tracker: Recovering from COVID Pandemic
 ## Project statement
@@ -23,11 +23,11 @@ All the observations were stored in .csv format. This .csv file is then used for
  
 
 ## Data Modelling and training
-*Normalize joint coordinates relative to center point of the body.
-*Structure input array to represent video frames per exercise repetiion
-*Build LSTM deep learning model, train and test.
-*Package model and create modular preprocessing package.
-*Create main script to ingest new video and predict with saved model.
+* Normalize joint coordinates relative to center point of the body.
+* Structure input array to represent video frames per exercise repetiion
+* Build LSTM deep learning model, train and test.
+* Package model and create modular preprocessing package.
+* Create main script to ingest new video and predict with saved model.
 
 ## Demo on Web browser
 A simple webpage was implemented to demo the counting of the exercises video from Webcam 
