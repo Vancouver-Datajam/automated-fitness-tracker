@@ -47,7 +47,7 @@ Momo | Data Feature Extraction | momoueda | momoueda umomo88@gmail.com | https:/
 jason |  Data Feature Extraction | yjc2 | | |
 Anna Jose | Data Feature Extraction, Presentation | annacjose | annachinnujose@gmail.com | 
 Chloe  Zhou | Building/training Model | Chloe-Zhouu | mzhou4@ualberta.ca | www.linkedin.com/in/ming-chloe-zhou
-Austin Go | Building/training Model | austyngo | austinngo38@gmail.com | www.linkedin.com/in/austinngo/
+Austin Ngo | Building/training Model | austyngo | austinngo38@gmail.com | www.linkedin.com/in/austinngo/
 
 ## Vancouver Datajam 2021 Schedule:
 
