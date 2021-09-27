@@ -45,7 +45,7 @@ Sami Ma | Mentor | KamiCreed | sami.ma3@gmail.com| https://www.linkedin.com/in/s
 Ketian Bai | Literature Review, Counting code, Presentation | ketianBai | baiketian35@gmail.com | https://www.linkedin.com/in/%E5%8F%AF%E7%94%9C-%E7%99%BD-b43a88200/ 
 Momo | Data Feature Extraction | momoueda | momoueda umomo88@gmail.com | https://www.linkedin.com/in/mueda 
 jason |  Data Feature Extraction | yjc2 | | |
-Anna Jose | Data Feature Extraction | annacjose | annachinnujose@gmail.com | 
+Anna Jose | Data Feature Extraction, Presentation | annacjose | annachinnujose@gmail.com | 
 Chloe  Zhou | Building/training Model | Chloe-Zhouu | mzhou4@ualberta.ca | www.linkedin.com/in/ming-chloe-zhou
 Austin Go | Building/training Model | austyngo | austinngo38@gmail.com | www.linkedin.com/in/austinngo/
 
