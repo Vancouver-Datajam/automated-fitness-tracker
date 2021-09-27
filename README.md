@@ -18,18 +18,36 @@ https://www.dropbox.com/sh/xdurn4e4y3rax54/AAB9wpGEhlyIALu861ZzSd5Ha?dl=0
 
 
 ## Data Extraction
-50 frames containing medipipe pose joints were retrieved for each observation from each video. Data was stored into a csv. 
+From each video, 50 frames containing medipipe pose joints were retrieved for each observation. 
+All the observations were stored in .csv format. This .csv file is then used for training
+ 
 
 ## Data Modelling and training
-Normalize joint coordinates relative to center point of the body.
-Structure input array to represent video frames per exercise repetiion
-Build LSTM deep learning model, train and test.
-Package model and create modular preprocessing package.
-Create main script to ingest new video and predict with saved model.
+*Normalize joint coordinates relative to center point of the body.
+*Structure input array to represent video frames per exercise repetiion
+*Build LSTM deep learning model, train and test.
+*Package model and create modular preprocessing package.
+*Create main script to ingest new video and predict with saved model.
+
+## Demo on Web browser
+A simple webpage was implemented to demo the counting of the exercises video from Webcam 
 
 ## Prediction and counting
-The counting.py library was created to count the number of moves in each type of exercise: squats and curls
+A new exercise video is processed and the exercise type is predicted by the developed LSTM model. A counting.py code is to count the number of moves for each type of exercise: squats and curls
+
 ## Project team members
+
+Name | Role/Tasks | Github | Email  | LinkedIn
+
+Nasreen Mohsin | nasreenpmohsin | nasreenpmohsin@gmail.com | Team Lead / Documentation, Code sanity check, Algorithm development, Project management | nasreenpmohsin | https://www.linkedin.com/in/nasreen-mohsin-08210419/
+Srishti Yadav | copperwiring | srishtiyadav0807@gmai.com | Team Co-Lead, Verify code reproduction, Project management, Web cevelopment | https://www.linkedin.com/in/srishti-yadav/ 
+Austin Go | austyngo | austinngo38@gmail.com | Building/training Model | www.linkedin.com/in/austinngo/
+Ketian Bai | ketianBai | baiketian35@gmail.com | Literature Review, Counting code, Presentation | Angle SobeAxe | https://www.linkedin.com/in/%E5%8F%AF%E7%94%9C-%E7%99%BD-b43a88200/ 
+
+
+
+
+
 
 Team lead: Nasreen Mohsin
 
