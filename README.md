@@ -1,6 +1,6 @@
 # Vancouver Datajam 2021 # team1
 
-This repository contains a computer vision Python project developed by #team1. The project idea was brought forward by  Amal Tili from [Pyladies Tunis](https://pyladies.com/locations/tunis/). The presentation of the project can be found in the [YouTube Video] (https://www.youtube.com/watch?v=9UHGXD6sKSM&list=PLhN61vAZv97wpivkmGhYLYAPSy_jgp0fP) and the [powerpoint](https://docs.google.com/presentation/d/1JyLmHyE4XJJfcJeYdLggOzUvvEx1eEIOetgV0QdSUAE/edit#slide=id.p)
+This repository contains a computer vision Python project developed by #team1. The project idea was brought forward by  Amal Tili from [Pyladies Tunis](https://pyladies.com/locations/tunis/). The presentation of the project can be found in the [YouTube Video](https://www.youtube.com/watch?v=9UHGXD6sKSM&list=PLhN61vAZv97wpivkmGhYLYAPSy_jgp0fP) and the [Powerpoint presentation](https://docs.google.com/presentation/d/1JyLmHyE4XJJfcJeYdLggOzUvvEx1eEIOetgV0QdSUAE/edit#slide=id.p)
 
 # Automated Fitness Tracker: Recovering from COVID Pandemic
 ## Project statement
@@ -13,13 +13,13 @@ Our adaptation would help a person who is exercising count the number of repetit
 This repository contains the jupyter notebooks and scripts for physical exercise classication and counting
 
 ## Data Collection
-From all team members, videos of squat and bicep curls were collected and stored in this folder.
-https://www.dropbox.com/sh/xdurn4e4y3rax54/AAB9wpGEhlyIALu861ZzSd5Ha?dl=0
+From all team members, videos of squat and bicep curls were collected and stored in this [folder](https://www.dropbox.com/sh/xdurn4e4y3rax54/AAB9wpGEhlyIALu861ZzSd5Ha?dl=0).
 
 
 ## Data Extraction
-From each video, 50 frames containing medipipe pose joints were retrieved for each observation. 
-All the observations were stored in .csv format. This .csv file is then used for training
+From each video, 50 frames containing pose joints were retrieved for each observation. The pose joint estimation was implmented with [Mediapipe Llbrary](https://google.github.io/mediapipe/solutions/pose).
+
+All the observations were stored in .csv format. The .csv file is then used for training
  
 
 ## Data Modelling and training
