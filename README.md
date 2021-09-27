@@ -38,11 +38,11 @@ A new exercise video is processed and the exercise type is predicted by the deve
 ## Project team members
 
 Name | Role/Tasks | Github | Email  | LinkedIn
-
-Nasreen Mohsin | nasreenpmohsin | nasreenpmohsin@gmail.com | Team Lead / Documentation, Code sanity check, Algorithm development, Project management | nasreenpmohsin | https://www.linkedin.com/in/nasreen-mohsin-08210419/
-Srishti Yadav | copperwiring | srishtiyadav0807@gmai.com | Team Co-Lead, Verify code reproduction, Project management, Web cevelopment | https://www.linkedin.com/in/srishti-yadav/ 
-Austin Go | austyngo | austinngo38@gmail.com | Building/training Model | www.linkedin.com/in/austinngo/
-Ketian Bai | ketianBai | baiketian35@gmail.com | Literature Review, Counting code, Presentation | Angle SobeAxe | https://www.linkedin.com/in/%E5%8F%AF%E7%94%9C-%E7%99%BD-b43a88200/ 
+-----|------------|---------|--------|---------
+Nasreen Mohsin | Team Lead / Documentation, Code sanity check, Algorithm development, Project management | @nasreenpmohsin | nasreenpmohsin@gmail.com |  https://www.linkedin.com/in/nasreen-mohsin-08210419/
+Srishti Yadav | Team Co-Lead, Verify code reproduction, Project management, Web cevelopment | copperwiring | srishtiyadav0807@gmai.com | https://www.linkedin.com/in/srishti-yadav/ 
+Austin Go | Building/training Model | austyngo | austinngo38@gmail.com | www.linkedin.com/in/austinngo/
+Ketian Bai | Literature Review, Counting code, Presentation | ketianBai | baiketian35@gmail.com | https://www.linkedin.com/in/%E5%8F%AF%E7%94%9C-%E7%99%BD-b43a88200/ 
 
 
 
